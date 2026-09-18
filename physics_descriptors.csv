@@ -1,0 +1,5 @@
+﻿Sample,MgO_wt_percent,Vr,lambda_nm,rho_dis_1e13_m2,delta_sigma_dis_MPa,delta_sigma_Or_MPa,delta_sigma_LT_MPa,sigma_phys_MPa,Measured_YS_MPa,Residual_MPa
+Control,0,0,0,0,0,0,98,98,0,
+S1,5,0.0397,817.93,2.831,25.05,8.51,1.94,133.5,120.1,-13.4
+S2,10,0.0802,521.32,5.977,36.4,13.34,3.93,151.68,127.3,-24.38
+S3,15,0.1217,375.96,9.493,45.87,18.5,5.96,168.34,104.6,-63.74

@@ -1,0 +1,5 @@
+﻿Sample,MgO_wt_percent,Hardness_HV0.5_mean,Hardness_HV0.5_SD,UCS_MPa
+Control,0,43.75,3.3,251.5
+S1,5,56.75,2.22,263
+S2,10,68,3.16,268
+S3,15,83.5,1.29,278

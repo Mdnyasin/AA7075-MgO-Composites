@@ -1,0 +1,5 @@
+﻿Sample,MgO_wt_percent,YS_MPa,UTS_MPa,Elongation_percent,Area_Reduction_percent
+Control,0,98,120,1,1
+S1,5,120.1,150.4,0.5,1.7
+S2,10,127.3,159.5,1.2,2.2
+S3,15,104.6,131.5,1.7,1.9

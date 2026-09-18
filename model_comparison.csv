@@ -1,0 +1,5 @@
+﻿Model,MAE_MPa,RMSE_MPa,R2
+Physics_only,33.84,40.15,-16.97
+Training_mean,12.73,14.21,-1.25
+Composition_linear,24.78,25.75,-6.392
+Physics_guided_residual,4.7,4.92,0.73

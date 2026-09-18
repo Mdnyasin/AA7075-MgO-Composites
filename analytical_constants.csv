@@ -1,0 +1,12 @@
+﻿Quantity,Symbol,Value,Unit,Interpretation
+AA7075_density,rho_m,2810,kg/m3,Nominal matrix density
+MgO_density,rho_r,3580,kg/m3,Nominal reinforcement density
+Particle_diameter,d_p,600,nm,Reported mean particle size
+Thermal_mismatch,delta_alpha,1.40E-05,1/K,Difference between nominal matrix and MgO values
+Cooling_interval,delta_T,700,K,Analytical approximation
+Burgers_vector,b,0.286,nm,Aluminium matrix
+Shear_modulus,G,26.9,GPa,Matrix approximation
+Taylor_factor,M,3.06,FCC,polycrystal approximation
+Interaction_coefficient,alpha,0.2,Taylor,hardening coefficient
+Load_transfer_efficiency,eta,0.5,Nominal,interface efficiency
+Control_yield_strength,sigma_y0,98,MPa,Measured recast control
